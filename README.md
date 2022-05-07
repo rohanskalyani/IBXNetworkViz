@@ -13,3 +13,5 @@ Image to reproduce:
 
 Final Output:
 ![NYC Subway Network, Current and w/ IBX](https://github.com/rohanskalyani/IBXNetworkViz/blob/main/network_maps.png?raw=true)
+
+For a higher quality and greater zoom, click on the raw image at [network_maps.png](https://github.com/rohanskalyani/IBXNetworkViz/blob/main/network_maps.png)
